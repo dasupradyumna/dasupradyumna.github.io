@@ -1,1 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blog</title><link>https://dasupradyumna.github.io/</link><description>Recent content on Blog</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://dasupradyumna.github.io/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blog</title><link>https://dasupradyumna.github.io/</link><description>Recent content on Blog</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 17 Jan 2026 13:50:06 +0530</lastBuildDate><atom:link href="https://dasupradyumna.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Mega Page Title</title><link>https://dasupradyumna.github.io/test/</link><pubDate>Sat, 17 Jan 2026 13:50:06 +0530</pubDate><guid>https://dasupradyumna.github.io/test/</guid><description>&lt;h1 id="hello-world"&gt;
+ Hello World?
+ &lt;a class="heading-link" href="#hello-world"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;how does this look in the browser?&lt;/li&gt;
+&lt;li&gt;let&amp;rsquo;s make content for the blog!!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="salute-"&gt;
+ Salute ~
+ &lt;a class="heading-link" href="#salute-"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Thank you &amp;amp; Regards&lt;/p&gt;
+&lt;/blockquote&gt;</description></item></channel></rss>
