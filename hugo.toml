@@ -1,0 +1,18 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Blog'
+theme = 'coder'
+
+[params]
+    colorScheme = 'dark'
+    hidecolorschemetoggle = true
+
+    author = 'Dasu Pradyumna'
+    info = 'Under development. Coming soon ...'
+    description = 'Technical blog for experiments, discoveries and projects'
+    keywords = 'blog,cv'
+
+[[menu.main]]
+    name = 'Test'
+    weight = 1
+    url = '/test'
